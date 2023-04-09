@@ -1,13 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
 using Reprository.Core.Interfaces;
 using Reprository.Core.Models;
-using System.IdentityModel.Tokens.Jwt;
 using System.Reflection;
-using System.Security.Claims;
-using System.Text;
 using WAPIProject.DTO;
 using static System.Net.Mime.MediaTypeNames;
 
@@ -119,55 +115,13 @@ namespace WAPIProject.Controllers
             return BadRequest(ModelState);
         }
 
-
-
-
-        [HttpPost("login")]
-        public async Task<IActionResult> Login(LoginDTO userDto)
-        {
-            if (ModelState.IsValid)
-            {
-                ApplicationUser userModel = await userManager.FindByNameAsync(userDto.UserName);
-                if (userModel != null && await userManager.CheckPasswordAsync(userModel, userDto.Password))
-                {
-                    List<Claim> userClaims = new List<Claim>();
-                    userClaims.Add(new Claim(ClaimTypes.NameIdentifier, userModel.Id));
-                    userClaims.Add(new Claim(ClaimTypes.Name, userModel.UserName));
-                    userClaims.Add(new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()));
-
-                    List<string> roles = (List<string>)await userManager.GetRolesAsync(userModel);
-                    if (roles != null)
-                    {
-                        foreach (var item in roles)
-                        {
-                            userClaims.Add(new Claim(ClaimTypes.Role, item));
-                        }
-                    }
-                    var authSecritKey =
-                        new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["JWT:SecrytKey"]));
-
-                    SigningCredentials credentials =
-                        new SigningCredentials(authSecritKey, SecurityAlgorithms.HmacSha256);
-
-                    JwtSecurityToken mytoken = new JwtSecurityToken(
-                        issuer: config["JWT:ValidIss"],
-                        audience: config["JWT:ValidAud"],
-                        expires: DateTime.Now.AddHours(5),
-                        claims: userClaims,
-                        signingCredentials: credentials
-                        );
-
-                    return Ok(new
-                    {
-                        token = new JwtSecurityTokenHandler().WriteToken(mytoken),
-                        expiration = mytoken.ValidTo
-                    });
-
-                }
-                return BadRequest("Invalid Login Account");
-            }
-            return BadRequest(ModelState);
-        }
     }
+
+
+
+
+
+
+
 }
 

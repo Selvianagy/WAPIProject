@@ -22,15 +22,3 @@ G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprosi
 G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.dll
 G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.pdb
 G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\ref\Reprository.Core.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.deps.json
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.pdb
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.AssemblyReference.cache
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfoInputs.cache
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfo.cs
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.CoreCompileInputs.cache
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\refint\Reprository.Core.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.pdb
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\ref\Reprository.Core.dll

@@ -1,14 +1,11 @@
 
-using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 using Reprository.Core;
 using Reprository.Core.Interfaces;
 using Reprository.Core.Models;
 using Reprository.EF;
 using Reprository.EF.Repositories;
-using System.Text;
 
 namespace WAPIProject
 {
@@ -25,30 +22,10 @@ namespace WAPIProject
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDBContext>();
 
-
-            builder.Services.AddAuthentication(options =>
-            {
-                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;//not valid account
-                options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
-            }).AddJwtBearer(options =>
-            {
-                options.SaveToken = true;
-                options.RequireHttpsMetadata = false;
-                options.TokenValidationParameters = new TokenValidationParameters()
-                {
-                    //parmeter
-                    ValidateIssuer = true,
-                    ValidIssuer = builder.Configuration["JWT:ValidIss"],
-                    ValidateAudience = true,
-                    ValidAudience = builder.Configuration["JWT:ValidAud"],
-                    IssuerSigningKey =
-                    new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:SecrytKey"]))//asdZXCZX!#!@342352
-                };
-            });
-
             // Add services to the container.
             builder.Services.AddScoped<IUnitOfWorkRepository, UnitOfWorkRepository>();
+            builder.Services.Configure<SmsVerification>(builder.Configuration.GetSection("SMS"));   
+            builder.Services.AddTransient<ISmsSender,SmsSenderRepository>();    
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -63,7 +40,7 @@ namespace WAPIProject
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            app.UseAuthentication();
+
             app.UseAuthorization();
 
 

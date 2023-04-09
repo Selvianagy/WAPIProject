@@ -32,20 +32,3 @@ G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprosi
 G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.csproj.CopyComplete
 G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.genruntimeconfig.cache
 G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\ref\Reprository.EF.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\bin\Debug\net7.0\Reprository.EF.deps.json
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\bin\Debug\net7.0\Reprository.EF.runtimeconfig.json
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\bin\Debug\net7.0\Reprository.EF.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\bin\Debug\net7.0\Reprository.EF.pdb
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\bin\Debug\net7.0\Reprository.Core.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\bin\Debug\net7.0\Reprository.Core.pdb
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.csproj.AssemblyReference.cache
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.AssemblyInfoInputs.cache
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.AssemblyInfo.cs
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.csproj.CoreCompileInputs.cache
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.csproj.CopyComplete
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\refint\Reprository.EF.dll
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.pdb
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\Reprository.EF.genruntimeconfig.cache
-C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.EF\obj\Debug\net7.0\ref\Reprository.EF.dll

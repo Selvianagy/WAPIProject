@@ -21,7 +21,7 @@ namespace Reprository.EF
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=DESKTOP-6UOGSN3;Initial Catalog=E-Commerce;Integrated Security=True; trust server certificate = true");
+            optionsBuilder.UseSqlServer("Data Source=DESKTOP-QG04GD4\\INTAKE43;Initial Catalog=E-Commerce;Integrated Security=True; trust server certificate = true");
             base.OnConfiguring(optionsBuilder);
         }
 
