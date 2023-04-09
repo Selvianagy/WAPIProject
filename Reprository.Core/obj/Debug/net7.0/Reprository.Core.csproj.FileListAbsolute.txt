@@ -1,0 +1,36 @@
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.deps.json
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.dll
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.pdb
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.AssemblyReference.cache
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfoInputs.cache
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfo.cs
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.CoreCompileInputs.cache
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.dll
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\refint\Reprository.Core.dll
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.pdb
+F:\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\ref\Reprository.Core.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.AssemblyReference.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfoInputs.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfo.cs
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.CoreCompileInputs.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\refint\Reprository.Core.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.pdb
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.deps.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.pdb
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\ref\Reprository.Core.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.deps.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\bin\Debug\net7.0\Reprository.Core.pdb
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.AssemblyReference.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfoInputs.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.AssemblyInfo.cs
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.csproj.CoreCompileInputs.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\refint\Reprository.Core.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\Reprository.Core.pdb
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\Reprository.Core\obj\Debug\net7.0\ref\Reprository.Core.dll

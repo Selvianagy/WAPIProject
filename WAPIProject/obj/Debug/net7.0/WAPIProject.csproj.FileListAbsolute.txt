@@ -1,0 +1,253 @@
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\appsettings.Development.json
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\appsettings.json
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.exe
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.deps.json
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.runtimeconfig.json
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.pdb
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Azure.Core.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Azure.Identity.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Humanizer.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.CodeDom.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Memory.Data.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.EF.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.EF.pdb
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.AssemblyReference.cache
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.AssemblyInfoInputs.cache
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.AssemblyInfo.cs
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.CoreCompileInputs.cache
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.MvcApplicationPartsAssemblyInfo.cs
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.MvcApplicationPartsAssemblyInfo.cache
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.WAPIProject.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.build.WAPIProject.props
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WAPIProject.props
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WAPIProject.props
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.pack.json
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.build.json
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.development.json
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\scopedcss\bundle\WAPIProject.styles.css
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.CopyComplete
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\refint\WAPIProject.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.pdb
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.genruntimeconfig.cache
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\ref\WAPIProject.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.Core.dll
+F:\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.Core.pdb
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.AssemblyReference.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.AssemblyInfoInputs.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.AssemblyInfo.cs
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.CoreCompileInputs.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.MvcApplicationPartsAssemblyInfo.cs
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.MvcApplicationPartsAssemblyInfo.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\refint\WAPIProject.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.pdb
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\appsettings.Development.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\appsettings.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.exe
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.deps.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.runtimeconfig.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.pdb
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Azure.Core.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Azure.Identity.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Humanizer.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.CodeDom.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Memory.Data.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.Core.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.EF.dll
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.EF.pdb
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.Core.pdb
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.WAPIProject.Microsoft.AspNetCore.StaticWebAssets.props
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.build.WAPIProject.props
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WAPIProject.props
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WAPIProject.props
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.pack.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.build.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.development.json
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\scopedcss\bundle\WAPIProject.styles.css
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.CopyComplete
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.genruntimeconfig.cache
+G:\iti 9 month 43\Angular\E-Commrece Project\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\ref\WAPIProject.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\appsettings.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.exe
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.deps.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.runtimeconfig.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\WAPIProject.pdb
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.Core.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.EF.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.EF.pdb
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\bin\Debug\net7.0\Reprository.Core.pdb
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.AssemblyReference.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.AssemblyInfoInputs.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.AssemblyInfo.cs
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.WAPIProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.build.WAPIProject.props
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WAPIProject.props
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WAPIProject.props
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\scopedcss\bundle\WAPIProject.styles.css
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.csproj.CopyComplete
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\refint\WAPIProject.dll
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.pdb
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\WAPIProject.genruntimeconfig.cache
+C:\Users\Al Lewaa Company\Desktop\AppWAPI&Angular\WAPIProject\WAPIProject\obj\Debug\net7.0\ref\WAPIProject.dll
